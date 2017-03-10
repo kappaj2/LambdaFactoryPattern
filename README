@@ -1,0 +1,2 @@
+This is a sample project showing the implementation of a FactoryPattern using Java 1.7 and then Java 1.8 using Lambdas.
+It shows the Supplier functional interface in action.
